@@ -1,0 +1,4 @@
+outs:
+- md5: f82da769b584928fe24e9f7885ad09d5
+  size: 227977
+  path: employee-attrition.csv
